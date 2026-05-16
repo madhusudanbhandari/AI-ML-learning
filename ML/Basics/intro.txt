@@ -1,0 +1,34 @@
+##Prerequisites## Mean,Median,Mode,Algebra,Vector,Standard deviation
+
+##chap1##Foundation of Machine Learning
+ ##ML=making the machine learn from the past data or patterns to make the decisions
+
+
+#core ml concept:
+  1.Input
+  2.Output
+  3.Model
+  4.Training
+  5.Testing
+  6.Prediction
+
+
+
+##Data Preprocessing
+    1.Handling missing data
+    2.Encode Categorical Values
+        1.Label Encoding::Applying numbers to the text
+        2.One-hot encoding
+    3.Feature Scaling
+    4.Split data 
+
+
+###Its not about the line its about the story
+##aaccuracy is not always goal
+
+
+
+##3step formula
+    1# if x and y are numeric=scatter plot
+    2# is one column category = plot/count plot
+    3# want to see distribution==histogram,kde plot,box plot

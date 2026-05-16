@@ -1,0 +1,20 @@
+##k Means Clustering: 5 Steps
+        1.tell the machine i.e k=3
+        2. Draw 3 random points
+        3. Select Group Leader
+        4.Move leaders to center
+        5.Repeat this process until you find answer
+
+##Elbow Method
+        
+##steps for any ml project
+        1.Load data
+        2.Clean data
+        3.feature scaling
+        4.split the data
+        5.train model
+        6.make predictions
+        7.evalute model
+        8.visualize results
+        9.look for improvement
+        10.wrap

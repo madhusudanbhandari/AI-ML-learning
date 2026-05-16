@@ -1,0 +1,19 @@
+##Pandas is a python library commonly used for data manipulation and data analysis
+
+series=one dimensional labeled array used for storing int,float,storing
+DataFrame= multidimensional labeled array such as table with rows and columns
+
+
+1##Preview the dataset  {head(),tail()}
+2##Understand the data Set( understandingrows,columns,types of data,missing data)
+   #{info()=
+    1.number of rows and columns
+    2.column name
+    3.int64 or float64 object
+    4.non null counts
+    5.memory usage of dataset}
+3.##Identify the problems
+   #{describe (),
+     shape(),
+     columns()}
+4.##Plan the next step
